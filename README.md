@@ -38,11 +38,5 @@ A GUI-less, serverless solution to securely upload healthcare files (lab reports
 
 ## 📂 Folder Structure
 
-secure-file-upload-healthcare/
-├── lambda/ # Python Lambda function code
-│ └── upload_handler.py
-├── postman/ # Postman collection & environment
-│ └── secure_upload_test.postman_collection.json
-├── docs/ # Diagrams, screenshots, documentation
-│ └── architecture_flowchart.png
-├── README.md # Project overview and instructions
+<img width="879" height="233" alt="image" src="https://github.com/user-attachments/assets/81f27383-4653-43f3-b7e5-07cddff07103" />
+
