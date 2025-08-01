@@ -1,6 +1,3 @@
-# secure-file-upload-healthcare
-A secure file upload system built using AWS S3, Lambda, and API Gateway (GUI-based)
-
 # 🚀 Secure File Upload System (Healthcare)
 
 A GUI-based serverless solution to securely upload files to AWS S3 using Lambda and API Gateway.
